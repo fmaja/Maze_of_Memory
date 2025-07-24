@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: db1fa8e9c57e5bf4aa360d037e3fecf7
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e9e81b1dd01c2f8468dece56b72284ae
+  - enabled: 1
+    path: Assets/Scenes/UIManager.unity
+    guid: b1e9f642f7675fe4bbd5b4542f4893c8
+  - enabled: 1
+    path: Assets/Scenes/EscapeRoom1.unity
+    guid: e8cf1d29775c7e24f9dd35148a6437c0
+  - enabled: 1
+    path: Assets/Scenes/Las.unity
+    guid: 7769f33fb4fa2e5458344a36556ad760
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: 5c73b003c208903459edc1d9be3b79aa
+  - enabled: 1
+    path: Assets/Scenes/EscapeRoom2.unity
+    guid: 3925a2e7c5f5a5f4e89a4cee32b2bdf4
+  - enabled: 1
+    path: Assets/Scenes/Labirynt.unity
+    guid: 6804882cdd0b01949ab302c7332bb9eb
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 4419d82f33d36e848b3ed5af4c8da37e,
+      type: 3}
